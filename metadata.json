@@ -1,0 +1,6 @@
+{
+  "name": "Life Care Medicine Point",
+  "description": "Premium, modern, trustworthy bilingual website for Life Care Medicine Point (লাইফ কেয়ার মেডিসিন পয়েন্ট) pharmacy & healthcare services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
